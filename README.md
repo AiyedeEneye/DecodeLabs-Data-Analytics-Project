@@ -20,8 +20,6 @@ The project was completed as part of my Decode Labs data analysis project, using
 
 - Microsoft Excel
 - Power Query
-- Pivot Tables
-- Excel Charts & Visualizations
 
 ## Key Findings
 
